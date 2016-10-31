@@ -1,0 +1,21 @@
+/* box1.css */
+
+
+
+
+
+
+
+div {
+        font-family:"Lucida Sans", Verdana, sans-serif;
+        margin: auto;
+        margin-top:50px;
+        display: block;
+        width: 50%;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: rgb(232,143,12);
+        text-align: justify;
+        padding: 30px;
+        background-color: rgb(255,255,174);
+}
