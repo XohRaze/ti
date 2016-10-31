@@ -1,0 +1,13 @@
+/* box3.css */
+
+div {
+        margin: auto;
+        margin-top:50px;
+        display: block;
+        width: 500px;
+        border-style: 3px;
+        border-color: rgb(182,203,222);
+        padding: 30px;
+        border-radius: 30px;
+        background-color: rgb(72,72,72);
+}
